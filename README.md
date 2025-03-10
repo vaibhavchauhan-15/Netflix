@@ -3,7 +3,7 @@
 ![Netflix Dashboard](image.png)  
 
 ## 📌 Overview  
-This project is a **Netflix Data Analysis Dashboard**, built using **Tableau (or any visualization tool you used)**.  
+This project is a **Netflix Data Analysis Dashboard**, built using **Tableau**.  
 It provides insights into Netflix's content library, including **movies and TV shows**, ratings, genres, and country-wise distributions.  
 
 ## 🚀 Features  
@@ -32,4 +32,4 @@ The dataset includes:
 ## 📌 How to Use?  
 1️⃣ Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/netflix-analysis.git
+   git clone (https://github.com/vaibhavchauhan-15/Netflix.git)

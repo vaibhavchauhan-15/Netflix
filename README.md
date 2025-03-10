@@ -31,5 +31,15 @@ The dataset includes:
 
 ## 📌 How to Use?  
 1️⃣ Clone this repository:  
-   ```bash
-   git clone (https://github.com/vaibhavchauhan-15/Netflix.git)
+- git clone (https://github.com/vaibhavchauhan-15/Netflix.git)
+
+## 📜 License  
+This project is licensed under the **MIT License**.  
+
+## 🔗 Connect With Me  
+📧 Email: vaibhavchauhan.contactme@gmail.com  
+🔗 LinkedIn:(https://www.linkedin.com/in/vaibhavchauhan15/) 
+
+---
+
+⭐ **If you like this project, don't forget to give it a star!** ⭐  
